@@ -1,6 +1,10 @@
 node_modules/
+config.env
+public/libs/
+.vscode/
+demo.html
 test-results/
 playwright-report/
-
 coverage/
 junit.xml
+debug.log
